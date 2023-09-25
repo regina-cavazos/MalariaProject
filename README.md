@@ -1,0 +1,3 @@
+# MalariaProject
+Modelating the behavior of someone with Malaria
+Creation of a simulation and computational calculation of an electric field such as those used in Dielectrophoresis to diagnose malaria. The screen should show two electrodes shaped like flat, parallel, oppositely charged plates. The user will be able to modify the size of one of the plates, and the non-uniform electric field that the plates produce will be graphed on the screen, with arrows or lines of force. Additionally, in a simulation box, the user will be able to specify the coordinates (x,y,z) of a point between the plates, and the values ​​of the components (Ex,Ey,Ez) of the electric field at that point.
